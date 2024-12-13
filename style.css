@@ -30,6 +30,18 @@ body {
     .Liens {
         color: rgb(0, 138, 138);
     }
+    audio{
+        margin-top: 50px;
+        margin-left: 80px;
+        margin-bottom: 50px;
+        padding: 10 0;
+        width: 80%; 
+        display: flex; 
+        justify-content: center; 
+        background-color: #f0f0f0;
+        border-radius: 20px; /* Rayon des coins arrondis */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optionnel : ajoute une ombre pour plus de style */
+    }
 }
 
 ::before,
